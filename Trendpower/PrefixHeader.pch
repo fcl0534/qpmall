@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  Trendpower
+//
+//  Created by hjz on 16/5/8.
+//  Copyright © 2016年 www.qpfww.com. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "Macro.h"
+#import "TPAPI.h"
+
+#import "Common.h"
+#import "UserDefaultsUtils.h"
+
+#endif /* PrefixHeader_pch */
